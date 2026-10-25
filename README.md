@@ -79,7 +79,7 @@ Open **Configs → Add**. You can:
   - an **ad text** shown to whoever opens the file (labelled *Sponsored*),
   - your **Telegram channel** link.
 - You can tie a lock to **your own server** so you can revoke it later (see the server tool below).
-- Files show whether the **creator is verified, unverified or unsigned**. Trust the creators you know from Settings.
+- Files show whether the **creator is verified, unverified or unsigned**. You can mark creators you know as trusted.
 
 ### Usage
 - Counts the data that goes through Oversea, per config, for **today, the last 7 days, or this month**.
